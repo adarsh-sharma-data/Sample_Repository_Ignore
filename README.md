@@ -1,1 +1,1 @@
-# Sample_Repository_Ignore_
+# Sample_Repository_Ignore
